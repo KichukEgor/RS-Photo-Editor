@@ -1,1 +1,1 @@
-# RS-Photo-Editor
+# Photo-Editor
